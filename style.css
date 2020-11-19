@@ -1,0 +1,106 @@
+html, body{
+	height: 100%;
+}
+
+.nav-logo{
+	height: 50px;
+}
+
+.contact-form{
+	background: grey;
+	margin-top: 150px;
+	margin-bottom: 100px;
+	padding:20px;
+	box-shadow: 0px 0px 10px 3px grey;
+}
+
+
+
+
+
+
+/* About me */
+#about{
+	margin-top: 70px;
+	padding-top:98px;
+	padding-bottom:101px;
+	background-color: #282828;
+	font-family: tahoma;
+	text-align: justify;
+}
+
+
+
+#about p{
+	margin-top: -15px;
+	margin-bottom: 30px;
+	color:#B08F57;
+}
+
+#about h2 {
+	margin-top: 15px;
+	margin-bottom: 47px;
+	color:#B08F57;
+}
+
+#about .download{
+	color:#B08F57;
+	border: 1px solid #B08F57;
+}
+
+#about .download:hover{
+	background-color: #fff;
+	color: red;
+}
+
+#about .social-link-text{
+	margin-top: 50px;
+	margin-bottom: 25px;
+
+}
+
+#about .about-link{
+	padding-left: 0px;
+}
+
+#about .about-link li{
+	display: inline-block;
+	margin-top: 25px;
+}
+#about .about-link li a i{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	line-height: 50px;
+	text-align: center;
+	border:1px solid #B08F57;
+	margin-right: 10px;
+	font-size: 22px;
+	color:#B08F57;
+	transition: all .3s; 
+}
+
+#about .about-link li a i:hover{
+	color:red;
+	background: #fff;
+}
+
+.nakupni_seznam{
+  margin-top: 70px;
+  border: 1px solid #282828;
+  padding-top:15px;
+}
+
+
+/*Footer */
+footer{
+	height: 60px;
+	position: relative;
+	margin-top: -60px;
+	clear: both;
+}
+
+.copyright{
+	padding-top: 13px;
+}
+

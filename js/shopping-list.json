@@ -1,0 +1,7 @@
+[
+  { "item": "Hrábě", "price": 90, "amount": 1 },
+  { "item": "Koště", "price": 25, "amount": 2 },
+  { "item": "Rýč", "price": 120 },
+  { "item": "Krumpáč", "price": 160 },
+  { "item": "Lopata", "price": 70 }
+]
